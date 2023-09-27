@@ -17,44 +17,45 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
+            "image_link": "https://iili.io/JJp0dlf.webp",
+            "title": "Standoff 2 Case Simulator 1",
+            "text_Content_": "Welcome to the thrilling world of Standoff 2 Case Simulator – a virtual realm filled with exciting adventures, cases, promo codes, and hacking possibilities. This is your path to gaming mastery!"
+        },
+        {
+            "image_link": "https://iili.io/JJp0JKG.webp",
+            "title": "Standoff 2 Case Simulator 2",
+            "text_Content_": "Download Standoff 2 Case Simulator: Install the app right now and immerse yourself in the world of case openings."
+        },
+        {
+            "image_link": "https://iili.io/JJplbtt.webp",
+            "title": "Standoff 2 Case Simulator 3",
             "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJplpoX.webp",
+            "title": "Standoff 2 Case Simulator 4",
+            "text_Content_": "Standoff 2 Case Simulator with Friends: Play with friends and rivals, compete to become the ultimate case opener in the game."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJplyVn.webp",
+            "title": "Standoff 2 Case Simulator 5",
+            "text_Content_": "Promo Codes and Codes: Utilize unique promo codes and codes to obtain exclusive rewards and chests."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJplbtt.webp",
+            "title": "Standoff 2 Case Simulator 
+6",
+            "text_Content_": "How to Hack Standoff 2 Case Simulator: Explore hacking strategies and become a true master in this domain."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJplpoX.webp",
+            "title": "Standoff 2 Case Simulator 7",
+            "text_Content_": "Top Standoff 2 Case Simulator: Compete with the best players and strive for the top of the leaderboard."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
-        },
-        {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
-        },
-        {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJp09Ps.webp",
+            "title": "Standoff 2 Case Simulator 8",
+            "text_Content_": "Open cases, unravel secrets, explore the world of promo codes and codes – Standoff 2 Case Simulator will help you become a true professional in the gaming world. Don't miss your chance to become the best!"
         }
     ]
 }
